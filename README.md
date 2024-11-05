@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<marquee>🌟 Welcome to my GitHub profile! 🌟</marquee>
+
 <!--
 **sarveshgadgil/sarveshgadgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
