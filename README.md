@@ -58,7 +58,7 @@ I specialize in designing **end-to-end data pipelines** using Azure technologies
 ## 📫 Let’s Connect
 - **Email:** [sarveshgadgil003@gmail.com](mailto:sarveshgadgil003@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/sarveshgadgil](https://linkedin.com/in/sarveshgad)  
-- **Portfolio:** [sarveshgadgil.github.io](https://sarveshgadgil.github.io)  
+- **Portfolio:** [sarveshgadgil.github.io](https://sarveshgadgil.github.io/sarveshgadgil/)  
 - **GitHub:** [github.com/sarveshgadgil](https://github.com/sarveshgadgil)  
 
 ---
