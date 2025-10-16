@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sarvesh Gadgil | Azure Data Engineer</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      background-color: #f9fafc;
+      color: #1a1a1a;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #0078D4;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    header img {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin: 1rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      border: 3px solid white;
+    }
+    header div {
+      max-width: 600px;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0078D4;
+      border-bottom: 3px solid #0078D4;
+      display: inline-block;
+      padding-bottom: 0.3rem;
+    }
+    .skills, .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+      transition: transform 0.3s;
+    }
+    .card:hover { transform: translateY(-5px); }
+    footer {
+      text-align: center;
+      background: #0078D4;
+      color: white;
+      padding: 1.5rem;
+      margin-top: 3rem;
+    }
+    a {
+      color: #0078D4;
+      text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+      }
+      header img {
+        margin-bottom: 1rem;
+      }
+      header div {
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/mnt/data/Photo.jpg" alt="Sarvesh Gadgil">
+    <div>
+      <h1>👋 I'm Sarvesh Gadgil</h1>
+      <p>Azure Data Engineer | Power BI | Databricks | Synapse | Python | SQL</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a Data Engineer with over 4 years of experience at IBM in Toronto, specializing in designing and optimizing cloud-based data pipelines using Azure, Databricks, and Synapse Analytics. I hold a Master's in Applied Computer Science from St. Francis Xavier University, Nova Scotia. My work focuses on transforming raw data into business-ready insights through modern data architectures.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Technical Skills</h2>
+    <div class="skills">
+      <div class="card">Azure Data Factory</div>
+      <div class="card">Azure Databricks</div>
+      <div class="card">Synapse Analytics</div>
+      <div class="card">Power BI</div>
+      <div class="card">SQL & Python</div>
+      <div class="card">CI/CD & DevOps</div>
+      <div class="card">Git & GitHub</div>
+      <div class="card">Data Modeling</div>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Featured Projects</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>GitHub Data Pipeline</h3>
+        <p>Built an end-to-end Azure pipeline using ADF, Databricks, and Synapse to process GitHub API data with Medallion Architecture.</p>
+      </div>
+      <div class="card">
+        <h3>Flight Delay Analysis</h3>
+        <p>Developed a data pipeline for airline delay prediction and insights using Databricks (PySpark) and Synapse for BI reporting.</p>
+      </div>
+      <div class="card">
+        <h3>YouTube Analytics Dashboard</h3>
+        <p>Integrated YouTube API with ADF and Power BI to deliver real-time analytics on channel performance and engagement.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <p>
+      <strong>IBM – Azure Data Engineer (Toronto, 4 years)</strong><br>
+      • Developed and optimized data pipelines across ADF, Databricks, and Synapse.<br>
+      • Implemented data partitioning, indexing, and query optimization in Azure SQL.<br>
+      • Managed CI/CD deployments and integrated Key Vault for secure credentials.<br>
+      • Collaborated with QA and business analysts for BI reporting accuracy.
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📧 <a href="mailto:sarveshgadgil@gmail.com">sarveshgadgil@gmail.com</a></p>
+    <p>💼 <a href="https://linkedin.com/in/sarveshgadgil" target="_blank">LinkedIn Profile</a></p>
+    <p>📊 <a href="https://github.com/sarveshgadgil" target="_blank">GitHub Portfolio</a></p>
+  </section>
+
+  <footer>
+    © 2025 Sarvesh Gadgil — Azure Data Engineer | Built with ❤️ using HTML & CSS
+  </footer>
+</body>
+</html>
