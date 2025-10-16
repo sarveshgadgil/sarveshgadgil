@@ -27,20 +27,15 @@ I specialize in designing **end-to-end data pipelines** using Azure technologies
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏪 **Retail Data Pipeline**
-End-to-end Azure data pipeline for a retail chain:  
-- Ingested data from APIs, flat files, and SQL DBs using **ADF**  
-- Processed and enriched data in **Databricks (PySpark)**  
-- Stored curated data in **Synapse Analytics**  
-- Built interactive **Power BI dashboards** for sales, inventory, and customer trends  
+## 🚀 Featured Projects  
 
-### ✈️ **Flight Delay Analysis**
-Built a modern data platform to predict and analyze airline delays using **Databricks**, **ADF**, and **Synapse** for BI reporting.
+🏪 **Retail Data Pipeline** — Designed an end-to-end Azure data pipeline for a retail chain using ADF, Databricks, Synapse, and Power BI to deliver real-time insights on sales, inventory, and customer trends.  
 
-### ▶️ **YouTube Analytics Dashboard**
-Integrated YouTube API with **Azure Data Factory** and **Power BI** to deliver real-time insights on engagement and growth.
+✈️ **Flight Delay Analysis** — Built a modern data platform using Databricks, ADF, and Synapse to predict and analyze airline delays for BI reporting.  
+
+▶️ **YouTube Analytics Dashboard** — Integrated YouTube API with ADF and Power BI to visualize real-time channel engagement and audience growth.
+
 
 ---
 
