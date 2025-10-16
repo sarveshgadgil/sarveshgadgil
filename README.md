@@ -1,19 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh Gadgil  
 
+🎯 **Azure Data Engineer | Power BI Developer | Data Pipeline Architect**  
+📍 Toronto, Canada  
 
-<marquee>🌟 Welcome to my GitHub profile! 🌟</marquee>
+---
 
-<!--
-**sarveshgadgil/sarveshgadgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+I'm a results-driven **Azure Data Engineer** with 4+ years of experience at **NCPL**, building scalable and reliable cloud-based data solutions.  
+I specialize in designing **end-to-end data pipelines** using Azure technologies and transforming raw data into business-ready insights.
 
-Here are some ideas to get you started:
+- 🎓 Master’s in Applied Computer Science — *St. Francis Xavier University, Nova Scotia*  
+- ☁️ Experienced with **Azure Data Factory, Databricks, Synapse Analytics, and ADLS**  
+- 📊 Skilled in **SQL, Python, PySpark, Power BI, CI/CD, and Data Modeling**  
+- 💬 Passionate about data architecture, optimization, and real-time analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Technical Skills
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Cloud** | Azure Data Factory · Databricks · Synapse Analytics · ADLS |
+| **Languages** | SQL · Python · PySpark |
+| **Visualization** | Power BI |
+| **DevOps & Source Control** | Git · GitHub · CI/CD |
+| **Data Design** | Data Modeling · Performance Tuning · Medallion Architecture |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏪 **Retail Data Pipeline**
+End-to-end Azure data pipeline for a retail chain:  
+- Ingested data from APIs, flat files, and SQL DBs using **ADF**  
+- Processed and enriched data in **Databricks (PySpark)**  
+- Stored curated data in **Synapse Analytics**  
+- Built interactive **Power BI dashboards** for sales, inventory, and customer trends  
+
+### ✈️ **Flight Delay Analysis**
+Built a modern data platform to predict and analyze airline delays using **Databricks**, **ADF**, and **Synapse** for BI reporting.
+
+### ▶️ **YouTube Analytics Dashboard**
+Integrated YouTube API with **Azure Data Factory** and **Power BI** to deliver real-time insights on engagement and growth.
+
+---
+
+## 💼 Experience
+
+**Azure Data Engineer – NCPL (Toronto, 4 years)**  
+- Developed and optimized Azure data pipelines across ADF, Databricks & Synapse  
+- Designed data models and applied indexing & partitioning for performance  
+- Automated deployments using CI/CD pipelines  
+- Collaborated with QA & business teams to ensure BI accuracy  
+
+---
+
+## 🏆 Certifications
+- Microsoft Certified: **Azure Data Engineer Associate**  
+- Microsoft Certified: **Power BI Data Analyst**  
+
+---
+
+## 📫 Let’s Connect
+- **Email:** [sarveshgadgil@gmail.com](mailto:sarveshgadgil003@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sarveshgadgil](https://linkedin.com/in/sarveshgad)  
+- **Portfolio:** [sarveshgadgil.github.io](https://sarveshgadgil.github.io)  
+- **GitHub:** [github.com/sarveshgadgil](https://github.com/sarveshgadgil)  
+
+---
+
+⭐ *“Turning data into insights, and insights into impact.”*  
