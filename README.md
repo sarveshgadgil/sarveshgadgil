@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sarvesh Gadgil  
 
 🎯 **Azure Data Engineer | Power BI Developer | Data Pipeline Architect**  
-📍 Toronto, Canada  
+📍 Hyderabad, India 
 
 ---
 
